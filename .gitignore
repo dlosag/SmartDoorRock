@@ -1,0 +1,12 @@
+# ignored folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+
+# ignored files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprfs
